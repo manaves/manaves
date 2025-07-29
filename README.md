@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manaves&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manaves&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🌱 I’m currently learning Julia and new things about bioinformatics.
+- 🔭 I’m currently working on a website, where people will be able to search for information about tomato genes.
+- 📫 How to reach me: https://www.linkedin.com/in/maria-navarro-paredes/
