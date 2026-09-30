@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manaves&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning Julia and new things about bioinformatics.
-- 📊 I’m currently analyzing human RNA-seq data using multi-factor interaction models to study Lipedema, focusing on identifying unique gene expression profiles in thigh tissue compared to abdominal fat.
+- 🌱 I’m constantly learning new things about bioinformatics and statistics.
 - 📫 How to reach me: https://www.linkedin.com/in/maria-navarro-paredes/
